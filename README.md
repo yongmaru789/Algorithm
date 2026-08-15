@@ -10,7 +10,7 @@
 | CodeTree | `CodeTree` |
 
 -------
-## Algorithm Study (2026.04.23 ~ )
+## Algorithm Study (2026.04.23 ~ 08.14)
 
 → [알고리즘 스터디](https://github.com/yongmaru789/algo-class4-group4)
 
